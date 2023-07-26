@@ -88,6 +88,14 @@ p{
     background: #FFFFFF;
 }
 
+.link-main:hover{
+    opacity: .4;
+}
+
+.link-main:active{
+    opacity: .7;
+}
+
 .container-right{
     display: inline-block;
     margin-left: 97px;
